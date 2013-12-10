@@ -4,7 +4,8 @@
     "basePackages": {
       "accounts-persona": {},
       "handlebar-helpers": {},
-      "sugarjs": {}
+      "sugarjs": {},
+      "moment": {}
     },
     "packages": {
       "accounts-persona": {
@@ -21,6 +22,11 @@
         "git": "https://github.com/crapthings/meteor-sugarjs.git",
         "tag": "v1.4.0.1",
         "commit": "2841738b2c28d2d97c6cf3c41c4558f59f93db0e"
+      },
+      "moment": {
+        "git": "https://github.com/acreeger/meteor-moment.git",
+        "tag": "v2.2.1",
+        "commit": "9ee12e714afe56b189f53076447b7b54f3012065"
       }
     }
   }
