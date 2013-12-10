@@ -2,13 +2,19 @@
   "meteor": {},
   "dependencies": {
     "basePackages": {
-      "accounts-persona": {}
+      "accounts-persona": {},
+      "handlebar-helpers": {}
     },
     "packages": {
       "accounts-persona": {
         "git": "https://github.com/vladikoff/meteor-accounts-persona.git",
         "tag": "v0.1.6",
         "commit": "5b8110dad901a69f674e6a0381e074567fe1b4d9"
+      },
+      "handlebar-helpers": {
+        "git": "https://github.com/raix/Meteor-handlebar-helpers.git",
+        "tag": "v0.0.9",
+        "commit": "71e94c99462b8801a34c5363510758b6ff5f5ac7"
       }
     }
   }
