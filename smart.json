@@ -1,6 +1,7 @@
 {
   "packages": {
     "accounts-persona": {},
-    "handlebar-helpers": {}
+    "handlebar-helpers": {},
+    "sugarjs": {}
   }
 }

@@ -3,7 +3,8 @@
   "dependencies": {
     "basePackages": {
       "accounts-persona": {},
-      "handlebar-helpers": {}
+      "handlebar-helpers": {},
+      "sugarjs": {}
     },
     "packages": {
       "accounts-persona": {
@@ -15,6 +16,11 @@
         "git": "https://github.com/raix/Meteor-handlebar-helpers.git",
         "tag": "v0.0.9",
         "commit": "71e94c99462b8801a34c5363510758b6ff5f5ac7"
+      },
+      "sugarjs": {
+        "git": "https://github.com/crapthings/meteor-sugarjs.git",
+        "tag": "v1.4.0.1",
+        "commit": "2841738b2c28d2d97c6cf3c41c4558f59f93db0e"
       }
     }
   }
