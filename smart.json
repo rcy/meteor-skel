@@ -3,6 +3,7 @@
     "accounts-persona": {},
     "handlebar-helpers": {},
     "sugarjs": {},
-    "moment": {}
+    "moment": {},
+    "bootstrap3-less": {}
   }
 }

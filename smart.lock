@@ -5,7 +5,8 @@
       "accounts-persona": {},
       "handlebar-helpers": {},
       "sugarjs": {},
-      "moment": {}
+      "moment": {},
+      "bootstrap3-less": {}
     },
     "packages": {
       "accounts-persona": {
@@ -27,6 +28,11 @@
         "git": "https://github.com/acreeger/meteor-moment.git",
         "tag": "v2.2.1",
         "commit": "9ee12e714afe56b189f53076447b7b54f3012065"
+      },
+      "bootstrap3-less": {
+        "git": "https://github.com/eprochasson/bootstrap3-less",
+        "tag": "v0.1.5",
+        "commit": "5074432c020ffc7a676a812e92104ce0fa96080f"
       }
     }
   }
