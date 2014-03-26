@@ -3,7 +3,10 @@
   "dependencies": {
     "basePackages": {
       "accounts-persona": {},
-      "handlebar-helpers": {},
+      "handlebar-helpers": {
+        "git": "https://github.com/raix/Meteor-handlebar-helpers.git",
+        "tag": "v0.0.9"
+      },
       "sugarjs": {},
       "moment": {},
       "bootstrap3-less": {}
@@ -26,13 +29,13 @@
       },
       "moment": {
         "git": "https://github.com/acreeger/meteor-moment.git",
-        "tag": "v2.2.1",
-        "commit": "9ee12e714afe56b189f53076447b7b54f3012065"
+        "tag": "v2.5.1",
+        "commit": "8c9bc5d3fc96705057737cb9743d555417f6e551"
       },
       "bootstrap3-less": {
         "git": "https://github.com/eprochasson/bootstrap3-less",
-        "tag": "v0.1.5",
-        "commit": "5074432c020ffc7a676a812e92104ce0fa96080f"
+        "tag": "v0.1.9",
+        "commit": "5c812c4d7ce72917a065f0424c3cf54e5ff2d16a"
       }
     }
   }

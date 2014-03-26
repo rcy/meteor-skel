@@ -1,7 +1,10 @@
 {
   "packages": {
     "accounts-persona": {},
-    "handlebar-helpers": {},
+    "handlebar-helpers": {
+      "git": "https://github.com/raix/Meteor-handlebar-helpers.git",
+      "tag": "v0.0.9"
+    },
     "sugarjs": {},
     "moment": {},
     "bootstrap3-less": {}
